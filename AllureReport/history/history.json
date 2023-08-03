@@ -1,0 +1,1 @@
+{"fdb7f90c520b902a7e43f88c45d12bf8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"b3a92b9ce3eac4b","reportUrl":"nulljob/Cross-browser%20testing/9/allure/#testresult/b3a92b9ce3eac4b","status":"failed","statusDetails":"AssertionError: assert False","time":{"start":1691100291641,"stop":1691100293726,"duration":2085}}]}}
